@@ -31,7 +31,6 @@
     <Content Include="ContentOptions.json">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ReadMe.txt" />
     <Content Include="ModPreview.jpg" />
     <Content Include="Config\XComEditor.ini" />
     <Content Include="Config\XComEngine.ini" />
